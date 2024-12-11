@@ -1,0 +1,65 @@
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\bin\DalList.deps.json
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\bin\DalList.dll
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\bin\DalList.pdb
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.dll
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\refint\DalList.dll
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.pdb
+C:\לימודים שנה ב\c#\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\bin\DalList.deps.json
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\bin\DalList.dll
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\bin\DalList.pdb
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\#c-פרויקט גמר\DotNet2025_3887_1154\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\DotNet2025_3887_1154\bin\DalList.deps.json
+C:\Users\user1\Desktop\DotNet2025_3887_1154\bin\DalList.dll
+C:\Users\user1\Desktop\DotNet2025_3887_1154\bin\DalList.pdb
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\DotNet2025_3887_1154\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\bin\DalList.deps.json
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\bin\DalList.dll
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\bin\DalList.pdb
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\bin\DalList.deps.json
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\bin\DalList.dll
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\bin\DalList.pdb
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\ref\DalList.dll

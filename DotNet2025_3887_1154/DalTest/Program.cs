@@ -10,7 +10,7 @@ using System.Reflection;
 
 public class Program
 {
-    private static IDal s_dal = new DalList();
+    private static IDal s_dal = DalApi.Factory.Get;
 
     //פונקציה לבחירת סוג הישות ליצירה
     public static void PrintsTheObjectsSelections() 
@@ -72,16 +72,18 @@ public class Program
                         string clientAddress = Console.ReadLine();
                         string clientPhone = Console.ReadLine();
                         s_dal.Client.Create(new Client(int.Parse(clientId), clientName, clientAddress, clientPhone));
-
+                        PrintsTheObjectsSelections();
                         break;
                     case "product":
                         Console.WriteLine("please enter: productId, productName");
                         string productId = Console.ReadLine();
                         string productName = Console.ReadLine();
-                        s_dal.Products.Create(new Product(int.Parse(productId), productName, categoryies.bathroom,20,20)); 
+                        s_dal.Products.Create(new Product(int.Parse(productId), productName, categoryies.bathroom,20,20));
+                        PrintsTheObjectsSelections();
                         break;
                     case "sale":
                         s_dal.Sale.Create(new Sale(5, 54, 5, 5, true, DateTime.MinValue, DateTime.MinValue));
+                        PrintsTheObjectsSelections();
                         break;
                   
                 }
@@ -91,10 +93,12 @@ public class Program
                 Console.WriteLine("insert id");
                 int _id = int.Parse(Console.ReadLine());
                 icrud.Read(_id);
+                PrintsTheObjectsSelections();
                 break;  
             case 3:
                 //ReadAll
                 icrud.ReadAll();
+                PrintsTheObjectsSelections();
                 break;
             case 4:
                 //Update
@@ -102,12 +106,15 @@ public class Program
                 {
                     case "client":
                         s_dal.Client.Update(new Client(1, "aaa", "bbb", "99999"));
+                        PrintsTheObjectsSelections();
                         break;
                     case "product":
                         s_dal.Products.Update(new Product(1, "GFD", categoryies.bathroom, 20, 20));
+                        PrintsTheObjectsSelections();
                         break;
                     case "sale":
                         s_dal.Sale.Update(new Sale(5, 54, 5, 5, true, DateTime.MinValue, DateTime.MinValue));
+                        PrintsTheObjectsSelections();
                         break;
                 }
                 break;  
@@ -116,6 +123,7 @@ public class Program
                 Console.WriteLine("insert id");
                 int id = int.Parse(Console.ReadLine());
                 icrud.Delete(id);
+                PrintsTheObjectsSelections();
                 break;
             default:
                 {
@@ -131,8 +139,8 @@ public class Program
 
     public static void Main(string[] args)
     {
-    
-        //Initialization.Initialize(s_dal);
+
+        Initialization.Initialize();
         try
         {
             PrintsTheObjectsSelections();          

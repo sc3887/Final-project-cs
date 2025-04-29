@@ -1,0 +1,39 @@
+29/04/2025 00:14:47	Dal.ImplementationClient.Create: 	hadasa נוצר בהצלחה!
+29/04/2025 00:14:47	Dal.ImplementationClient.Create: 	sari נוצר בהצלחה!
+29/04/2025 00:14:47	Dal.ImplementationClient.Create: 	aaa נוצר בהצלחה!
+29/04/2025 00:14:47	Dal.ImplementationProduct.Create: 	pot נוצר בהצלחה!
+29/04/2025 00:14:47	Dal.ImplementationProduct.Create: 	shelf נוצר בהצלחה!
+29/04/2025 00:14:47	Dal.ImplementationSale.Create: 	1 התווסף בהצלחה!
+29/04/2025 00:14:47	Dal.ImplementationSale.Create: 	2 התווסף בהצלחה!
+29/04/2025 00:14:50	Dal.ImplementationClient.ReadAll: 	in func readAll
+29/04/2025 00:14:57	Dal.ImplementationProduct.Read: 	pot in func read
+29/04/2025 00:15:26	Dal.ImplementationClient.Create: 	hadasa נוצר בהצלחה!
+29/04/2025 00:15:26	Dal.ImplementationClient.Create: 	sari נוצר בהצלחה!
+29/04/2025 00:15:26	Dal.ImplementationClient.Create: 	aaa נוצר בהצלחה!
+29/04/2025 00:15:26	Dal.ImplementationProduct.Create: 	pot נוצר בהצלחה!
+29/04/2025 00:15:26	Dal.ImplementationProduct.Create: 	shelf נוצר בהצלחה!
+29/04/2025 00:15:26	Dal.ImplementationSale.Create: 	1 התווסף בהצלחה!
+29/04/2025 00:15:26	Dal.ImplementationSale.Create: 	2 התווסף בהצלחה!
+29/04/2025 00:15:30	Dal.ImplementationClient.ReadAll: 	in func readAll
+29/04/2025 00:15:42	Dal.ImplementationClient.Create: 	hadasa נוצר בהצלחה!
+29/04/2025 00:15:42	Dal.ImplementationClient.Create: 	sari נוצר בהצלחה!
+29/04/2025 00:15:42	Dal.ImplementationClient.Create: 	aaa נוצר בהצלחה!
+29/04/2025 00:15:42	Dal.ImplementationProduct.Create: 	pot נוצר בהצלחה!
+29/04/2025 00:15:42	Dal.ImplementationProduct.Create: 	shelf נוצר בהצלחה!
+29/04/2025 00:15:42	Dal.ImplementationSale.Create: 	1 התווסף בהצלחה!
+29/04/2025 00:15:42	Dal.ImplementationSale.Create: 	2 התווסף בהצלחה!
+29/04/2025 00:15:43	Dal.ImplementationClient.ReadAll: 	in func readAll
+29/04/2025 00:15:49	Dal.ImplementationProduct.Read: 	shelf in func read
+29/04/2025 00:15:57	Dal.ImplementationProduct.Read: 	shelf in func read
+29/04/2025 00:16:05	Dal.ImplementationProduct.Read: 	pot in func read
+29/04/2025 00:16:14	Dal.ImplementationProduct.Read: 	pot in func read
+29/04/2025 00:17:08	Dal.ImplementationClient.ReadAll: 	in func readAll
+29/04/2025 01:02:27	Dal.ImplementationClient.Create: 	hadasa נוצר בהצלחה!
+29/04/2025 01:02:27	Dal.ImplementationClient.Create: 	sari נוצר בהצלחה!
+29/04/2025 01:02:27	Dal.ImplementationClient.Create: 	aaa נוצר בהצלחה!
+29/04/2025 01:02:27	Dal.ImplementationProduct.Create: 	pot נוצר בהצלחה!
+29/04/2025 01:02:27	Dal.ImplementationProduct.Create: 	shelf נוצר בהצלחה!
+29/04/2025 01:02:27	Dal.ImplementationSale.Create: 	1 התווסף בהצלחה!
+29/04/2025 01:02:27	Dal.ImplementationSale.Create: 	2 התווסף בהצלחה!
+29/04/2025 01:02:29	Dal.ImplementationClient.ReadAll: 	in func readAll
+29/04/2025 01:02:30	Dal.ImplementationProduct.Read: 	pot in func read

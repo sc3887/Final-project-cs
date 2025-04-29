@@ -58,8 +58,9 @@ C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debu
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.AssemblyInfo.cs
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.CopyComplete
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.dll
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\refint\DalList.dll
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.pdb
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalList\obj\Debug\DalList.csproj.Up2Date

@@ -49,7 +49,6 @@ C:\Users\user1\Desktop\אחרון אחרון אחרון\DotNet2025_3887_1154\Dal
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\bin\DalFacade.deps.json
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\bin\DalFacade.dll
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\bin\DalFacade.pdb
-C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
@@ -58,3 +57,4 @@ C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\De
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\refint\DalFacade.dll
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\DalFacade.pdb
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\DalFacade\obj\Debug\DalFacade.sourcelink.json

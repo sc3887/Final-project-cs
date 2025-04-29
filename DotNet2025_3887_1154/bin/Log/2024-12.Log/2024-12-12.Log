@@ -1,0 +1,12 @@
+12/12/2024 19:53:59	Dal.ImplementationClient.Create: 	nn נוצר בהצלחה!
+12/12/2024 19:54:06	Dal.ImplementationClient.Read: 	nn in func read
+12/12/2024 19:54:21	Dal.ImplementationClient.Update: 	aaa עודכן
+12/12/2024 19:54:21	Dal.ImplementationClient.Read: 	nn in func read
+12/12/2024 19:54:21	Dal.ImplementationClient.Delete: 	נמחק
+12/12/2024 19:55:21	Dal.ImplementationClient.Create: 	hh נוצר בהצלחה!
+12/12/2024 19:56:29	Program.selectFromCRUD: 	there is'not this option in CRUD
+12/12/2024 23:41:17	Dal.ImplementationClient.Create: 	nn נוצר בהצלחה!
+12/12/2024 23:45:04	Dal.ImplementationClient.Create: 	kk נוצר בהצלחה!
+12/12/2024 23:45:09	Dal.ImplementationClient.Read: 	kk in func read
+12/12/2024 23:51:48	Dal.ImplementationClient.Create: 	דשרן נוצר בהצלחה!
+12/12/2024 23:52:09	Dal.ImplementationClient.Read: 	דשרן in func read

@@ -21,6 +21,7 @@ internal class ImplementationClient : IClient
         string funcName = MethodBase.GetCurrentMethod().Name;
         string massege = "נוצר בהצלחה!";
         LogManager.writingToLog(projecName, funcName, $"{item.clientName} {massege}" );
+        Console.WriteLine($"{item.clientName} נוסף בהצלחה!");
         return item.clientId;
     }
     public Client? Read(Func<Client, bool> filter)
@@ -38,7 +39,6 @@ internal class ImplementationClient : IClient
             string massege = "in func read";
             LogManager.writingToLog(projecName, funcName, $"{client.clientName} {massege}");
             Console.WriteLine(client.ToString());
-            Console.WriteLine(client.clientName);
             return client;
         }  
         throw new DalIdNotExistsException("!מזהה לא קיים");

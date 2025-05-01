@@ -1,0 +1,81 @@
+# תיקיות בנייה
+bin/
+obj/
+Build/
+
+# קבצי מערכת של Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# קבצי לוגים
+*.log
+*.tlog
+
+# קבצי מערכת של Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# קבצי מערכת של MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# קבצים זמניים
+*.tmp
+*.temp
+*.cache
+*.pdb
+*.ilk
+
+# קבצי חבילות NuGet
+*.nupkg
+packages/
+
+# קבצי בטא או גיבויים
+*.bak
+*.swp
+*.swo
+*.bak2
+
+# קבצים שנוצרים ע"י כלי בנייה נוספים
+*.log
+*.vspscc
+*.vssscc
+
+# תיקיות שנוצרות ע"י כלי בדיקות
+TestResults/
+*.trx
+*.coverage
+
+# קבצי קונפיגורציה מקומיים
+*.config
+*.settings
+
+# קבצי תלות של JetBrains Rider
+.idea/
+*.iml
+
+# קבצי מערכת של Git
+!.git/
+
+# קבצים נוספים שאינם נחוצים
+*.class
+*.pyc
+*.o
+*.exe
+*.dll
+*.out
+*.app
+*.ipa
+*.dSYM
+*.icns
+*.lock
+*.msi
+*.dmg
+*.map
+*.stackdump

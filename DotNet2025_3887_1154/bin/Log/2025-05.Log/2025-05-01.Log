@@ -52,3 +52,100 @@
 01/05/2025 01:51:59	Dal.ImplementationClient.Create: 	Successfully exited the function to create a customer
 01/05/2025 01:52:28	Dal.ImplementationProduct.Create: 	Enters the function to create a product
 01/05/2025 01:52:28	Dal.ImplementationProduct.Create: 	Successfully exited the function to create a product
+01/05/2025 14:49:57	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 14:49:57	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 14:51:05	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 14:51:05	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 15:24:55	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 15:24:55	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 15:27:00	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 15:27:00	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 15:43:09	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 15:43:09	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 15:43:12	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 15:43:12	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 15:43:19	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 15:43:19	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 15:49:48	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 15:49:48	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 15:49:57	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 15:49:57	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 15:59:15	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 15:59:15	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 15:59:19	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 15:59:19	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 16:08:52	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:08:53	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:08:53	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 16:08:53	Dal.ImplementationClient.Read: 	Failed to read customer: id not exists
+01/05/2025 16:08:53	Dal.ImplementationClient.Read: 	Failed to read customer: Client with ID 0 does not exist.
+01/05/2025 16:09:07	Dal.ImplementationClient.Delete: 	Enters the function to delete a customer
+01/05/2025 16:09:07	Dal.ImplementationClient.Delete: 	Successfully exited the function to delete a customer
+01/05/2025 16:09:07	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:09:07	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:09:11	Dal.ImplementationClient.Delete: 	Enters the function to delete a customer
+01/05/2025 16:09:11	Dal.ImplementationClient.Delete: 	Failed to delete customer: id not exists
+01/05/2025 16:09:11	Dal.ImplementationClient.Delete: 	Failed to delete customer: Client with ID 12 does not exist.
+01/05/2025 16:09:20	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:09:20	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:09:27	Dal.ImplementationClient.Delete: 	Enters the function to delete a customer
+01/05/2025 16:09:27	Dal.ImplementationClient.Delete: 	Successfully exited the function to delete a customer
+01/05/2025 16:09:27	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:09:27	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:09:43	Dal.ImplementationClient.Delete: 	Enters the function to delete a customer
+01/05/2025 16:09:43	Dal.ImplementationClient.Delete: 	Successfully exited the function to delete a customer
+01/05/2025 16:09:43	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:09:43	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:20:44	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:20:44	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:21:30	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.Update: 	Enters the function to update a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.Delete: 	Enters the function to delete a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.Delete: 	Successfully exited the function to delete a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.Create: 	Enters the function to create a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.Create: 	Successfully exited the function to create a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.Update: 	Successfully exited the function to update a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:21:30	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:24:31	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:24:31	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:24:35	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 16:24:35	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 16:34:12	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:34:12	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:34:12	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:34:12	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:34:32	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:34:32	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers with filter
+01/05/2025 16:34:41	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:34:41	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers with filter
+01/05/2025 16:35:00	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:35:00	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers with filter
+01/05/2025 16:36:18	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:36:18	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:36:18	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:36:18	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:36:28	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:36:28	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers with filter
+01/05/2025 16:37:30	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:37:30	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:37:30	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 16:37:30	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 16:37:37	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 16:37:37	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 17:03:15	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 17:03:15	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 17:03:15	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 17:03:15	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 17:03:35	Dal.ImplementationClient.Create: 	Enters the function to create a customer
+01/05/2025 17:03:35	Dal.ImplementationClient.Create: 	Successfully exited the function to create a customer
+01/05/2025 17:03:35	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 17:03:35	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 17:06:16	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 17:06:16	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 17:06:16	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 17:06:16	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 17:06:22	Dal.ImplementationClient.Delete: 	Enters the function to delete a customer
+01/05/2025 17:06:22	Dal.ImplementationClient.Delete: 	Failed to delete customer: id not exists
+01/05/2025 17:06:22	Dal.ImplementationClient.Delete: 	Failed to delete customer: Client with ID 60 does not exist.

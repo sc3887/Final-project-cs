@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\ui\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\bl\\bo\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|solutionrelative:bl\\bo\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\ui\\productmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\productmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\bl\\blapi\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\ui\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E169CF-37D1-4490-ADD1-B5402738646F}|xml{36E169CF-37D1-4490-ADD1-B5402738646F}|C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36E169CF-37D1-4490-ADD1-B5402738646F}|xml{36E169CF-37D1-4490-ADD1-B5402738646F}|solutionrelative:xml\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D30EEE-E30E-42D5-ABFE-9975B7ACDA41}|DalFacade\\DalFacade.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\dalfacade\\dalapi\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D30EEE-E30E-42D5-ABFE-9975B7ACDA41}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E169CF-37D1-4490-ADD1-B5402738646F}|xml{36E169CF-37D1-4490-ADD1-B5402738646F}|C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\dal-config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36E169CF-37D1-4490-ADD1-B5402738646F}|xml{36E169CF-37D1-4490-ADD1-B5402738646F}|solutionrelative:xml\\dal-config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3007727-912A-4211-B5E3-75C3FEA3C16B}|DalXml\\DalXml.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\dalxml\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3007727-912A-4211-B5E3-75C3FEA3C16B}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E169CF-37D1-4490-ADD1-B5402738646F}|xml{36E169CF-37D1-4490-ADD1-B5402738646F}|C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\data-config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36E169CF-37D1-4490-ADD1-B5402738646F}|xml{36E169CF-37D1-4490-ADD1-B5402738646F}|solutionrelative:xml\\data-config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\ui\\clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\bl\\blapi\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A74CC-61C7-4557-B978-530704215844}|BL\\BL.csproj|solutionrelative:bl\\blapi\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|c:\\users\\user1\\desktop\\final project in c#\\dotnet2025_3887_1154\\ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5692D1-86E2-4991-B8A9-C3C3A2981D0B}|UI\\UI.csproj|solutionrelative:ui\\mainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +66,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BO\\Client.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Client.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BO\\Client.cs",
+              "RelativeToolTip": "BL\\BO\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:56:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BlApi\\IClient.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\IClient.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BlApi\\IClient.cs",
+              "RelativeToolTip": "BL\\BlApi\\IClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:56:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clients.xml",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\clients.xml",
+              "RelativeDocumentMoniker": "xml\\clients.xml",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\clients.xml",
+              "RelativeToolTip": "xml\\clients.xml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-01T13:26:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalApi\\Config.cs",
+              "RelativeDocumentMoniker": "DalFacade\\DalApi\\Config.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalApi\\Config.cs",
+              "RelativeToolTip": "DalFacade\\DalApi\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:00:13.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dal-config.xml",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\dal-config.xml",
+              "RelativeDocumentMoniker": "xml\\dal-config.xml",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\dal-config.xml",
+              "RelativeToolTip": "xml\\dal-config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-01T11:53:53.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\ClientForm.cs",
+              "RelativeDocumentMoniker": "UI\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\ClientForm.cs",
+              "RelativeToolTip": "UI\\ClientForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:27:11.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -41,42 +167,95 @@
               "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\ClientForm.cs [Design]",
               "RelativeToolTip": "UI\\ClientForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:10:23.622Z",
+              "WhenOpened": "2025-05-01T11:17:35.045Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\ProductMenu.cs",
-              "RelativeDocumentMoniker": "UI\\ProductMenu.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\ProductMenu.cs [Design]",
-              "RelativeToolTip": "UI\\ProductMenu.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\Config.cs",
+              "RelativeDocumentMoniker": "DalXml\\Config.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\Config.cs",
+              "RelativeToolTip": "DalXml\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:09:54.858Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-01T11:55:00.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "data-config.xml",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\data-config.xml",
+              "RelativeDocumentMoniker": "xml\\data-config.xml",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\xml\\data-config.xml",
+              "RelativeToolTip": "xml\\data-config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-01T12:11:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\ClientForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\ClientForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\ClientForm.Designer.cs",
+              "RelativeToolTip": "UI\\ClientForm.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:55:30.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BL",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T11:53:14.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBl.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BlApi\\IBl.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\IBl.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\BL\\BlApi\\IBl.cs",
+              "RelativeToolTip": "BL\\BlApi\\IBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:52:48.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MainMenue.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\MainMenue.cs",
               "RelativeDocumentMoniker": "UI\\MainMenue.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\MainMenue.cs*",
-              "RelativeToolTip": "UI\\MainMenue.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBcAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\MainMenue.cs",
+              "RelativeToolTip": "UI\\MainMenue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T09:08:23.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "MainMenue.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\MainMenue.cs",
               "RelativeDocumentMoniker": "UI\\MainMenue.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\MainMenue.cs [Design]*",
-              "RelativeToolTip": "UI\\MainMenue.cs [Design]*",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\UI\\MainMenue.cs [Design]",
+              "RelativeToolTip": "UI\\MainMenue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T16:12:42.453Z",
               "EditorCaption": " [Design]"

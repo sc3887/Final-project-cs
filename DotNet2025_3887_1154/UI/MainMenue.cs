@@ -1,3 +1,4 @@
+
 namespace UI
 {
     public partial class MainMenue : Form
@@ -21,6 +22,12 @@ namespace UI
         private void button3_Click(object sender, EventArgs e)
         {
             ClientForm form = new ClientForm();
+            form.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            SaleForm form = new SaleForm();
             form.ShowDialog();
         }
     }

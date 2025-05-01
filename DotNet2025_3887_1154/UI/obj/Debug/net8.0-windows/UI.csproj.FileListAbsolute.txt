@@ -30,3 +30,5 @@ C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\UI\obj\Debug\net
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\UI\obj\Debug\net8.0-windows\UI.SaleForm.resources
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\UI\obj\Debug\net8.0-windows\UI.StartOrder.resources
 C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\UI\bin\Debug\net8.0-windows\DalXml.dll
+C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\UI\bin\Debug\net8.0-windows\DalXml.pdb

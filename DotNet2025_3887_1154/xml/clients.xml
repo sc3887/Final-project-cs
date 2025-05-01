@@ -1,93 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-		  <Client>
-			  <clientId>1</clientId>
-			  <clientName>שרה כהן</clientName>
-			  <clientAddress>רחוב חזון איש 12, בני ברק</clientAddress>
-			  <clientPhone>052-1234567</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>2</clientId>
-			  <clientName>רבקה לוי</clientName>
-			  <clientAddress>רחוב רבי עקיבא 45, בני ברק</clientAddress>
-			  <clientPhone>052-2345678</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>3</clientId>
-			  <clientName>לאה מזרחי</clientName>
-			  <clientAddress>רחוב שמואל הנביא 13, ירושלים</clientAddress>
-			  <clientPhone>053-3456789</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>4</clientId>
-			  <clientName>חנה אריאל</clientName>
-			  <clientAddress>רחוב מלכי ישראל 25, ירושלים</clientAddress>
-			  <clientPhone>053-4567890</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>5</clientId>
-			  <clientName>דבורה כהן</clientName>
-			  <clientAddress>רחוב נחמיה 10, בית שמש</clientAddress>
-			  <clientPhone>054-5678901</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>6</clientId>
-			  <clientName>אסתר רוזנברג</clientName>
-			  <clientAddress>רחוב הר נוף 8, ירושלים</clientAddress>
-			  <clientPhone>054-6789012</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>7</clientId>
-			  <clientName>מרים וייס</clientName>
-			  <clientAddress>רחוב שפת אמת 4, בית שמש</clientAddress>
-			  <clientPhone>055-7890123</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>8</clientId>
-			  <clientName>אילה גרוסמן</clientName>
-			  <clientAddress>רחוב שמגר 18, ירושלים</clientAddress>
-			  <clientPhone>055-8901234</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>9</clientId>
-			  <clientName>ציפורה פרידמן</clientName>
-			  <clientAddress>רחוב חזון דוד 6, מודיעין עילית</clientAddress>
-			  <clientPhone>056-9012345</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>10</clientId>
-			  <clientName>חיה ברקוביץ</clientName>
-			  <clientAddress>רחוב אור החיים 22, בני ברק</clientAddress>
-			  <clientPhone>056-1230456</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>11</clientId>
-			  <clientName>גולדה בלומנטל</clientName>
-			  <clientAddress>רחוב נתיבות המשפט 15, אלעד</clientAddress>
-			  <clientPhone>057-2341567</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>12</clientId>
-			  <clientName>בתיה שטרן</clientName>
-			  <clientAddress>רחוב בן איש חי 3, מודיעין עילית</clientAddress>
-			  <clientPhone>057-3452678</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>13</clientId>
-			  <clientName>יוכבד דייטש</clientName>
-			  <clientAddress>רחוב קהילות יעקב 9, בני ברק</clientAddress>
-			  <clientPhone>058-4563789</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>14</clientId>
-			  <clientName>רחל קרמר</clientName>
-			  <clientAddress>רחוב יוסף חיים 11, אלעד</clientAddress>
-			  <clientPhone>058-5674890</clientPhone>
-		  </Client>
-		  <Client>
-			  <clientId>15</clientId>
-			  <clientName>גיטל ברמן</clientName>
-			  <clientAddress>רחוב חזון שמואל 14, ירושלים</clientAddress>
-			  <clientPhone>058-6785901</clientPhone>
-		  </Client>
+  <Client>
+    <clientId>2</clientId>
+    <clientName>רבקה לוי</clientName>
+    <clientAddress>רחוב רבי עקיבא 45, בני ברק</clientAddress>
+    <clientPhone>052-2345678</clientPhone>
+  </Client>
+  <Client>
+    <clientId>3</clientId>
+    <clientName>לאה מזרחי</clientName>
+    <clientAddress>רחוב שמואל הנביא 13, ירושלים</clientAddress>
+    <clientPhone>053-3456789</clientPhone>
+  </Client>
+  <Client>
+    <clientId>4</clientId>
+    <clientName>חנה אריאל</clientName>
+    <clientAddress>רחוב מלכי ישראל 25, ירושלים</clientAddress>
+    <clientPhone>053-4567890</clientPhone>
+  </Client>
+  <Client>
+    <clientId>5</clientId>
+    <clientName>דבורה כהן</clientName>
+    <clientAddress>רחוב נחמיה 10, בית שמש</clientAddress>
+    <clientPhone>054-5678901</clientPhone>
+  </Client>
+  <Client>
+    <clientId>6</clientId>
+    <clientName>אסתר רוזנברג</clientName>
+    <clientAddress>רחוב הר נוף 8, ירושלים</clientAddress>
+    <clientPhone>054-6789012</clientPhone>
+  </Client>
+  <Client>
+    <clientId>7</clientId>
+    <clientName>מרים וייס</clientName>
+    <clientAddress>רחוב שפת אמת 4, בית שמש</clientAddress>
+    <clientPhone>055-7890123</clientPhone>
+  </Client>
+  <Client>
+    <clientId>8</clientId>
+    <clientName>אילה גרוסמן</clientName>
+    <clientAddress>רחוב שמגר 18, ירושלים</clientAddress>
+    <clientPhone>055-8901234</clientPhone>
+  </Client>
+  <Client>
+    <clientId>9</clientId>
+    <clientName>ציפורה פרידמן</clientName>
+    <clientAddress>רחוב חזון דוד 6, מודיעין עילית</clientAddress>
+    <clientPhone>056-9012345</clientPhone>
+  </Client>
+  <Client>
+    <clientId>10</clientId>
+    <clientName>חיה ברקוביץ</clientName>
+    <clientAddress>רחוב אור החיים 22, בני ברק</clientAddress>
+    <clientPhone>056-1230456</clientPhone>
+  </Client>
+  <Client>
+    <clientId>11</clientId>
+    <clientName>גולדה בלומנטל</clientName>
+    <clientAddress>רחוב נתיבות המשפט 15, אלעד</clientAddress>
+    <clientPhone>057-2341567</clientPhone>
+  </Client>
+  <Client>
+    <clientId>13</clientId>
+    <clientName>יוכבד דייטש</clientName>
+    <clientAddress>רחוב קהילות יעקב 9, בני ברק</clientAddress>
+    <clientPhone>058-4563789</clientPhone>
+  </Client>
+  <Client>
+    <clientId>1</clientId>
+    <clientName>שרי כהן</clientName>
+    <clientAddress>נתיבות המשפט 25</clientAddress>
+    <clientPhone>089742248</clientPhone>
+  </Client>
+  <Client>
+    <clientId>20</clientId>
+    <clientName>הדסה רוט</clientName>
+    <clientAddress>מרומי שדה 9</clientAddress>
+    <clientPhone>852485245</clientPhone>
+  </Client>
 </ArrayOfClient>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Product>
+			<productId>1</productId>
+			<productName>סבון</productName>
+			<category>bathroom</category>
+			<productPrice>15</productPrice>
+			<quantityInStock>40</quantityInStock>
+		</Product>
+		<Product>
+			<productId>2</productId>
+			<productName>שמפו</productName>
+			<category>bathroom</category>
+			<productPrice>25</productPrice>
+			<quantityInStock>30</quantityInStock>
+		</Product>
+		<Product>
+			<productId>3</productId>
+			<productName>מגבות</productName>
+			<category>bathroom</category>
+			<productPrice>50</productPrice>
+			<quantityInStock>20</quantityInStock>
+		</Product>
+		<Product>
+			<productId>4</productId>
+			<productName>מראה</productName>
+			<category>bathroom</category>
+			<productPrice>120</productPrice>
+			<quantityInStock>10</quantityInStock>
+		</Product>
+		<Product>
+			<productId>5</productId>
+			<productName>מיטה זוגית</productName>
+			<category>bedroom</category>
+			<productPrice>2000</productPrice>
+			<quantityInStock>5</quantityInStock>
+		</Product>
+		<Product>
+			<productId>6</productId>
+			<productName>כריות</productName>
+			<category>bedroom</category>
+			<productPrice>80</productPrice>
+			<quantityInStock>50</quantityInStock>
+		</Product>
+		<Product>
+			<productId>7</productId>
+			<productName>שמיכות</productName>
+			<category>bedroom</category>
+			<productPrice>150</productPrice>
+			<quantityInStock>25</quantityInStock>
+		</Product>
+		<Product>
+			<productId>8</productId>
+			<productName>ארון בגדים</productName>
+			<category>bedroom</category>
+			<productPrice>3000</productPrice>
+			<quantityInStock>8</quantityInStock>
+		</Product>
+		<Product>
+			<productId>9</productId>
+			<productName>צעצועים</productName>
+			<category>theWorldOfChildren</category>
+			<productPrice>100</productPrice>
+			<quantityInStock>60</quantityInStock>
+		</Product>
+		<Product>
+			<productId>10</productId>
+			<productName>ספרי ילדים</productName>
+			<category>theWorldOfChildren</category>
+			<productPrice>40</productPrice>
+			<quantityInStock>30</quantityInStock>
+		</Product>
+		<Product>
+			<productId>11</productId>
+			<productName>משחקי קופסה</productName>
+			<category>theWorldOfChildren</category>
+			<productPrice>90</productPrice>
+			<quantityInStock>20</quantityInStock>
+		</Product>
+		<Product>
+			<productId>12</productId>
+			<productName>עגלה לתינוק</productName>
+			<category>theWorldOfChildren</category>
+			<productPrice>600</productPrice>
+			<quantityInStock>15</quantityInStock>
+		</Product>
+		<Product>
+			<productId>13</productId>
+			<productName>שולחן אוכל</productName>
+			<category>homeDesigh</category>
+			<productPrice>1200</productPrice>
+			<quantityInStock>10</quantityInStock>
+		</Product>
+		<Product>
+			<productId>14</productId>
+			<productName>כיסאות עץ</productName>
+			<category>homeDesigh</category>
+			<productPrice>200</productPrice>
+			<quantityInStock>40</quantityInStock>
+		</Product>
+		<Product>
+			<productId>15</productId>
+			<productName>תמונות קיר</productName>
+			<category>homeDesigh</category>
+			<productPrice>300</productPrice>
+			<quantityInStock>25</quantityInStock>
+		</Product>
+		<Product>
+			<productId>16</productId>
+			<productName>שטיחים</productName>
+			<category>homeDesigh</category>
+			<productPrice>500</productPrice>
+			<quantityInStock>15</quantityInStock>
+		</Product>
+		<Product>
+			<productId>17</productId>
+			<productName>מיקסר</productName>
+			<category>kitchen</category>
+			<productPrice>800</productPrice>
+			<quantityInStock>12</quantityInStock>
+		</Product>
+		<Product>
+			<productId>18</productId>
+			<productName>מקרר</productName>
+			<category>kitchen</category>
+			<productPrice>3500</productPrice>
+			<quantityInStock>4</quantityInStock>
+		</Product>
+		<Product>
+			<productId>19</productId>
+			<productName>תנור אפייה</productName>
+			<category>kitchen</category>
+			<productPrice>2200</productPrice>
+			<quantityInStock>6</quantityInStock>
+		</Product>
+		<Product>
+			<productId>20</productId>
+			<productName>סירים</productName>
+			<category>kitchen</category>
+			<productPrice>250</productPrice>
+			<quantityInStock>30</quantityInStock>
+		</Product>
+		<Product>
+			<productId>21</productId>
+			<productName>שקיות ניילון</productName>
+			<category>wholSale</category>
+			<productPrice>10</productPrice>
+			<quantityInStock>200</quantityInStock>
+		</Product>
+		<Product>
+			<productId>22</productId>
+			<productName>מגבונים</productName>
+			<category>wholSale</category>
+			<productPrice>15</productPrice>
+			<quantityInStock>500</quantityInStock>
+		</Product>
+		<Product>
+			<productId>23</productId>
+			<productName>מוצרי נייר</productName>
+			<category>wholSale</category>
+			<productPrice>20</productPrice>
+			<quantityInStock>350</quantityInStock>
+		</Product>
+		<Product>
+			<productId>24</productId>
+			<productName>תחבושות היגייניות</productName>
+			<category>wholSale</category>
+			<productPrice>30</productPrice>
+			<quantityInStock>300</quantityInStock>
+		</Product>
+		<Product>
+			<productId>25</productId>
+			<productName>וילונות</productName>
+			<category>homeDesigh</category>
+			<productPrice>150</productPrice>
+			<quantityInStock>20</quantityInStock>
+		</Product>
+		<Product>
+			<productId>26</productId>
+			<productName>מדפים</productName>
+			<category>bedroom</category>
+			<productPrice>200</productPrice>
+			<quantityInStock>15</quantityInStock>
+		</Product>
+		<Product>
+			<productId>27</productId>
+			<productName>מברשות שיניים</productName>
+			<category>bathroom</category>
+			<productPrice>10</productPrice>
+			<quantityInStock>100</quantityInStock>
+		</Product>
+		<Product>
+			<productId>28</productId>
+			<productName>כוסות שתייה</productName>
+			<category>kitchen</category>
+			<productPrice>50</productPrice>
+			<quantityInStock>60</quantityInStock>
+		</Product>
+		<Product>
+			<productId>29</productId>
+			<productName>בקבוקי מים</productName>
+			<category>wholSale</category>
+			<productPrice>30</productPrice>
+			<quantityInStock>400</quantityInStock>
+		</Product>
+		<Product>
+			<productId>30</productId>
+			<productName>ארגזי פלסטיק</productName>
+			<category>wholSale</category>
+			<productPrice>25</productPrice>
+			<quantityInStock>150</quantityInStock>
+		</Product>
+		<Product>
+			<productId>31</productId>
+			<productName>צעצועי עץ</productName>
+			<category>theWorldOfChildren</category>
+			<productPrice>120</productPrice>
+			<quantityInStock>35</quantityInStock>
+		</Product>
+		<Product>
+			<productId>32</productId>
+			<productName>מגירות</productName>
+			<category>homeDesigh</category>
+			<productPrice>500</productPrice>
+			<quantityInStock>10</quantityInStock>
+		</Product>
+		<Product>
+			<productId>33</productId>
+			<productName>כריות נוי</productName>
+			<category>homeDesigh</category>
+			<productPrice>60</productPrice>
+			<quantityInStock>45</quantityInStock>
+		</Product>
+		<Product>
+			<productId>34</productId>
+			<productName>וילונות גלילה</productName>
+			<category>homeDesigh</category>
+			<productPrice>350</productPrice>
+			<quantityInStock>18</quantityInStock>
+		</Product>
+		<Product>
+			<productId>35</productId>
+			<productName>קומקום חשמלי</productName>
+			<category>kitchen</category>
+			<productPrice>150</productPrice>
+			<quantityInStock>20</quantityInStock>
+		</Product>
+		<Product>
+			<productId>36</productId>
+			<productName>פופים</productName>
+			<category>bedroom</category>
+			<productPrice>300</productPrice>
+			<quantityInStock>10</quantityInStock>
+		</Product>
+		<Product>
+			<productId>37</productId>
+			<productName>תיקים לבית ספר</productName>
+			<category>theWorldOfChildren</category>
+			<productPrice>100</productPrice>
+			<quantityInStock>40</quantityInStock>
+		</Product>
+		<Product>
+			<productId>38</productId>
+			<productName>משטחי החתלה</productName>
+			<category>theWorldOfChildren</category>
+			<productPrice>200</productPrice>
+			<quantityInStock>15</quantityInStock>
+		</Product>
+		<Product>
+			<productId>39</productId>
+			<productName>שולחן כתיבה</productName>
+			<category>bedroom</category>
+			<productPrice>800</productPrice>
+			<quantityInStock>12</quantityInStock>
+		</Product>
+		<Product>
+			<productId>40</productId>
+			<productName>ארגז אחסון</productName>
+			<category>homeDesigh</category>
+			<productPrice>250</productPrice>
+			<quantityInStock>20</quantityInStock>
+		</Product>
+</ArrayOfProduct>

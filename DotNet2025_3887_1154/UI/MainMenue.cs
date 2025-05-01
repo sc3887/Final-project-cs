@@ -12,5 +12,16 @@ namespace UI
             ProductMenu form = new ProductMenu();
             form.ShowDialog();
         }
+
+        private void MainMenue_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ClientForm form = new ClientForm();
+            form.ShowDialog();
+        }
     }
 }

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <productId>1</productId>
+    <productName>pot</productName>
+    <category>kitchen</category>
+    <productPrice>90.8</productPrice>
+    <quantityInStock>3</quantityInStock>
+  </Product>
+  <Product>
+    <productId>2</productId>
+    <productName>shelf</productName>
+    <category>bedroom</category>
+    <productPrice>100</productPrice>
+    <quantityInStock>10</quantityInStock>
+  </Product>
+  <Product>
+    <productId>4</productId>
+    <productName>gukhi</productName>
+    <category>bathroom</category>
+    <productPrice>20</productPrice>
+    <quantityInStock>20</quantityInStock>
+  </Product>
+</ArrayOfProduct>

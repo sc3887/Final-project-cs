@@ -61,6 +61,7 @@
             button3.TabIndex = 0;
             button3.Text = "לקוחות";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -82,6 +83,7 @@
             Controls.Add(button1);
             Name = "MainMenue";
             Text = "Form1";
+            Load += MainMenue_Load;
             ResumeLayout(false);
         }
 

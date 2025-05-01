@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <clientId>1</clientId>
+    <clientName>hadasa</clientName>
+    <clientAddress>meromey sade 9</clientAddress>
+    <clientPhone>0504104901</clientPhone>
+  </Client>
+  <Client>
+    <clientId>2</clientId>
+    <clientName>sari</clientName>
+    <clientAddress>netivot sade 25</clientAddress>
+    <clientPhone>0504158914</clientPhone>
+  </Client>
+  <Client>
+    <clientId>3</clientId>
+    <clientName>aaa</clientName>
+    <clientAddress> modiienililt</clientAddress>
+    <clientPhone>0548423310</clientPhone>
+  </Client>
+  <Client>
+    <clientId>5</clientId>
+    <clientName>chana</clientName>
+    <clientAddress>yerushalaim</clientAddress>
+    <clientPhone>0527965423</clientPhone>
+  </Client>
+</ArrayOfClient>

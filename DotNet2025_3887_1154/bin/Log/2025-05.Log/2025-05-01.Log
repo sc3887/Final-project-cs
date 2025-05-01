@@ -1,0 +1,54 @@
+01/05/2025 00:19:35	Dal.ImplementationClient.Create: 	Enters the function to create a customer
+01/05/2025 00:22:58	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 00:22:58	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 00:23:36	Dal.ImplementationClient.ReadAll: 	Enters the function to create a customer
+01/05/2025 00:23:36	Dal.ImplementationClient.ReadAll: 	Successfully exited the function to read all customers
+01/05/2025 00:32:15	Dal.ImplementationClient.Update: 	Enters the function to update a customer
+01/05/2025 00:32:15	Dal.ImplementationClient.Delete: 	Enters the function to delete a customer
+01/05/2025 00:32:15	Dal.ImplementationClient.Delete: 	Successfully exited the function to delete a customer
+01/05/2025 00:32:15	Dal.ImplementationClient.Create: 	Enters the function to create a customer
+01/05/2025 00:32:15	Dal.ImplementationClient.Create: 	Successfully exited the function to create a customer
+01/05/2025 00:32:15	Dal.ImplementationClient.Update: 	Successfully exited the function to update a customer
+01/05/2025 00:54:02	Dal.ImplementationProduct.Create: 	Enters the function to create a product
+01/05/2025 00:54:02	Dal.ImplementationProduct.Create: 	Successfully exited the function to create a product
+01/05/2025 00:55:15	Dal.ImplementationProduct.Create: 	Enters the function to create a product
+01/05/2025 00:55:15	Dal.ImplementationProduct.Create: 	Successfully exited the function to create a product
+01/05/2025 00:56:10	Dal.ImplementationProduct.Read: 	Enters the function to read a product
+01/05/2025 00:56:10	Dal.ImplementationProduct.Read: 	Successfully exited the function to read a product
+01/05/2025 01:06:57	Dal.ImplementationSale.Create: 	Enters the function to create a sale
+01/05/2025 01:06:57	Dal.ImplementationSale.Create: 	Successfully exited the function to create a sale
+01/05/2025 01:07:29	Dal.ImplementationSale.Create: 	Enters the function to create a sale
+01/05/2025 01:07:29	Dal.ImplementationSale.Create: 	Failed to create sale: id already exists
+01/05/2025 01:07:29	Dal.ImplementationSale.Create: 	Failed to create sale: Sale with ID 5 already exists.
+01/05/2025 01:21:52	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:21:52	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:23:44	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 01:23:44	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 01:24:26	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 01:24:27	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 01:24:32	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:24:32	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:33:19	Dal.ImplementationClient.Read: 	Enters the function to read a customer
+01/05/2025 01:33:19	Dal.ImplementationClient.Read: 	Successfully exited the function to read a customer
+01/05/2025 01:33:26	Dal.ImplementationProduct.Read: 	Enters the function to read a product
+01/05/2025 01:33:26	Dal.ImplementationProduct.Read: 	Successfully exited the function to read a product
+01/05/2025 01:33:30	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:33:30	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:45:29	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:45:29	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:45:50	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:45:50	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:49:55	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:49:55	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:50:14	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:50:14	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:50:39	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:50:39	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:51:00	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:51:00	Dal.ImplementationSale.Create: 	Failed to create sale: Could not find file 'C:\Users\user1\Desktop\Final project in c#\DotNet2025_3887_1154\xml\data-config'.
+01/05/2025 01:51:28	Dal.ImplementationSale.Create: 	Entering the function to create a sale
+01/05/2025 01:51:29	Dal.ImplementationSale.Create: 	Successfully exited the function to create a sale
+01/05/2025 01:51:59	Dal.ImplementationClient.Create: 	Enters the function to create a customer
+01/05/2025 01:51:59	Dal.ImplementationClient.Create: 	Successfully exited the function to create a customer
+01/05/2025 01:52:28	Dal.ImplementationProduct.Create: 	Enters the function to create a product
+01/05/2025 01:52:28	Dal.ImplementationProduct.Create: 	Successfully exited the function to create a product

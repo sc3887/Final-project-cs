@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sale>
+    <saleId>1</saleId>
+    <idOfProduct>1</idOfProduct>
+    <amountRequiredToRecevieTheOffer>20</amountRequiredToRecevieTheOffer>
+    <totalPriceOnSale>3</totalPriceOnSale>
+    <whoIsThePremotionFor>false</whoIsThePremotionFor>
+    <dateStartSale>2025-04-30T22:23:27.761797+03:00</dateStartSale>
+    <dateFinishSale>2025-04-30T22:23:27.7638633+03:00</dateFinishSale>
+  </Sale>
+  <Sale>
+    <saleId>2</saleId>
+    <idOfProduct>2</idOfProduct>
+    <amountRequiredToRecevieTheOffer>10</amountRequiredToRecevieTheOffer>
+    <totalPriceOnSale>6</totalPriceOnSale>
+    <whoIsThePremotionFor>true</whoIsThePremotionFor>
+    <dateStartSale>2025-04-30T22:23:27.793197+03:00</dateStartSale>
+    <dateFinishSale>2025-04-30T22:23:27.7932026+03:00</dateFinishSale>
+  </Sale>
+</ArrayOfSale>

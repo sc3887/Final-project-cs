@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -87,15 +87,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
               "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj": {
                 "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj"
@@ -119,8 +119,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -137,7 +137,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -159,21 +159,24 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
               "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj": {
                 "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj"
               },
               "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalList\\DalList.csproj": {
                 "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalList\\DalList.csproj"
+              },
+              "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\DalXml.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\DalXml.csproj"
               },
               "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\Tools\\Tools.csproj": {
                 "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\Tools\\Tools.csproj"
@@ -194,8 +197,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -212,7 +215,79 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\DalXml.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\DalXml.csproj",
+        "projectName": "DalXml",
+        "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\DalXml.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj"
+              },
+              "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\Tools\\Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -234,15 +309,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -259,8 +334,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -277,7 +352,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

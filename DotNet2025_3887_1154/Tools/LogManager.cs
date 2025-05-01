@@ -7,7 +7,8 @@ namespace Tools
     public static class LogManager
     {
         private static readonly string path = "Log";
-        
+        public static string space = "";
+
         //פונקציה לקבלת ניתוב התיקיה הנוכחית
         public static string 
             getPathDirectory()

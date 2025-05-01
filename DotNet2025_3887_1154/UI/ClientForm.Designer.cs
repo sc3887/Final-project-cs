@@ -31,14 +31,14 @@
             listBox1 = new ListBox();
             tabControl1 = new TabControl();
             tabPage1 = new TabPage();
+            listBox2 = new ListBox();
+            אישור = new Button();
+            numericUpDown1 = new NumericUpDown();
             label1 = new Label();
             tabPage2 = new TabPage();
             tabPage3 = new TabPage();
             tabPage4 = new TabPage();
             tabPage5 = new TabPage();
-            numericUpDown1 = new NumericUpDown();
-            אישור = new Button();
-            listBox2 = new ListBox();
             tabControl1.SuspendLayout();
             tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
@@ -51,6 +51,7 @@
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(210, 324);
             listBox1.TabIndex = 0;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // tabControl1
             // 
@@ -82,6 +83,31 @@
             tabPage1.Text = "פרטי לקוח";
             tabPage1.UseVisualStyleBackColor = true;
             // 
+            // listBox2
+            // 
+            listBox2.FormattingEnabled = true;
+            listBox2.Location = new Point(219, 172);
+            listBox2.Name = "listBox2";
+            listBox2.Size = new Size(150, 104);
+            listBox2.TabIndex = 3;
+            // 
+            // אישור
+            // 
+            אישור.Location = new Point(28, 56);
+            אישור.Name = "אישור";
+            אישור.Size = new Size(94, 29);
+            אישור.TabIndex = 2;
+            אישור.Text = "אישור";
+            אישור.UseVisualStyleBackColor = true;
+            אישור.Click += אישור_Click;
+            // 
+            // numericUpDown1
+            // 
+            numericUpDown1.Location = new Point(147, 58);
+            numericUpDown1.Name = "numericUpDown1";
+            numericUpDown1.Size = new Size(124, 27);
+            numericUpDown1.TabIndex = 1;
+            // 
             // label1
             // 
             label1.AutoSize = true;
@@ -96,7 +122,7 @@
             tabPage2.Location = new Point(4, 29);
             tabPage2.Name = "tabPage2";
             tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(424, 324);
+            tabPage2.Size = new Size(463, 324);
             tabPage2.TabIndex = 1;
             tabPage2.Text = "פרטי כל הלקוחות";
             tabPage2.UseVisualStyleBackColor = true;
@@ -105,7 +131,7 @@
             // 
             tabPage3.Location = new Point(4, 29);
             tabPage3.Name = "tabPage3";
-            tabPage3.Size = new Size(424, 324);
+            tabPage3.Size = new Size(463, 324);
             tabPage3.TabIndex = 2;
             tabPage3.Text = "הוספת לקוח";
             tabPage3.UseVisualStyleBackColor = true;
@@ -114,7 +140,7 @@
             // 
             tabPage4.Location = new Point(4, 29);
             tabPage4.Name = "tabPage4";
-            tabPage4.Size = new Size(424, 324);
+            tabPage4.Size = new Size(463, 324);
             tabPage4.TabIndex = 3;
             tabPage4.Text = "עדכון לקוח";
             tabPage4.UseVisualStyleBackColor = true;
@@ -123,35 +149,10 @@
             // 
             tabPage5.Location = new Point(4, 29);
             tabPage5.Name = "tabPage5";
-            tabPage5.Size = new Size(424, 324);
+            tabPage5.Size = new Size(463, 324);
             tabPage5.TabIndex = 4;
             tabPage5.Text = "מחיקת לקוח";
             tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // numericUpDown1
-            // 
-            numericUpDown1.Location = new Point(147, 58);
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(124, 27);
-            numericUpDown1.TabIndex = 1;
-            // 
-            // אישור
-            // 
-            אישור.Location = new Point(28, 56);
-            אישור.Name = "אישור";
-            אישור.Size = new Size(94, 29);
-            אישור.TabIndex = 2;
-            אישור.Text = "אישור";
-            אישור.UseVisualStyleBackColor = true;
-            אישור.Click += אישור_Click;
-            // 
-            // listBox2
-            // 
-            listBox2.FormattingEnabled = true;
-            listBox2.Location = new Point(219, 172);
-            listBox2.Name = "listBox2";
-            listBox2.Size = new Size(150, 104);
-            listBox2.TabIndex = 3;
             // 
             // ClientForm
             // 

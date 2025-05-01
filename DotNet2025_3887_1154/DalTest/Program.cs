@@ -50,7 +50,7 @@ public class Program
             PrintsTheObjectsSelections();
             
         }
-        Console.WriteLine("the profram finish!!!!");
+        Console.WriteLine("the program finish!!!!");
 
 
     }
@@ -132,15 +132,14 @@ public class Program
                     string massege = "there is'not this option in CRUD";
                     LogManager.writingToLog(projecName, funcName, $"{massege}");
                     throw new DalOptionNotExistsException("there is'not this option in CRUD");
-                }
-                
+                }              
         }
     }
 
     public static void Main(string[] args)
     {
 
-        Initialization.Initialize();
+        //Initialization.Initialize();
         try
         {
             PrintsTheObjectsSelections();          

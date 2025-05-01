@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net8.0": {
       "DalFacade/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
           "bin/placeholder/DalFacade.dll": {}
         },
@@ -14,7 +14,7 @@
       },
       "DalList/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "DalFacade": "1.0.0",
           "Tools": "1.0.0"
@@ -26,9 +26,23 @@
           "bin/placeholder/DalList.dll": {}
         }
       },
+      "DalXml/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DalFacade": "1.0.0",
+          "Tools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DalXml.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DalXml.dll": {}
+        }
+      },
       "Tools/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
           "bin/placeholder/Tools.dll": {}
         },
@@ -49,6 +63,11 @@
       "path": "../DalList/DalList.csproj",
       "msbuildProject": "../DalList/DalList.csproj"
     },
+    "DalXml/1.0.0": {
+      "type": "project",
+      "path": "../DalXml/DalXml.csproj",
+      "msbuildProject": "../DalXml/DalXml.csproj"
+    },
     "Tools/1.0.0": {
       "type": "project",
       "path": "../Tools/Tools.csproj",
@@ -56,9 +75,10 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net8.0": [
       "DalFacade >= 1.0.0",
       "DalList >= 1.0.0",
+      "DalXml >= 1.0.0",
       "Tools >= 1.0.0"
     ]
   },
@@ -84,21 +104,24 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {
             "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj": {
               "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalFacade\\DalFacade.csproj"
             },
             "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalList\\DalList.csproj": {
               "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalList\\DalList.csproj"
+            },
+            "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\DalXml\\DalXml.csproj"
             },
             "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\Tools\\Tools.csproj": {
               "projectPath": "C:\\Users\\user1\\Desktop\\Final project in c#\\DotNet2025_3887_1154\\Tools\\Tools.csproj"
@@ -119,8 +142,8 @@
       "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -137,7 +160,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
